@@ -1,0 +1,593 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Musgraves musle broken, or Truth pleading against falshood; being a just defence and answer to two papers read by Sir Arthur Haslerig: set forth in a letter written to Mr. Moyer, one of the commissioners for compounding. Wherein is discovered how the common-wealth is abused by sub-cummissioners for sequestrations, and a revenue of 13000 l. per annum brought into the state, upon the discovery and charge of John Musgrave.</title>
+            <author>Musgrave, John, fl. 1654.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 56 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89427</idno>
+            <idno type="STC">Wing M3152</idno>
+            <idno type="STC">Thomason E626_26</idno>
+            <idno type="STC">ESTC R206571</idno>
+            <idno type="EEBO-CITATION">99865695</idno>
+            <idno type="PROQUEST">99865695</idno>
+            <idno type="VID">165839</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89427)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165839)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 96:E626[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Musgraves musle broken, or Truth pleading against falshood; being a just defence and answer to two papers read by Sir Arthur Haslerig: set forth in a letter written to Mr. Moyer, one of the commissioners for compounding. Wherein is discovered how the common-wealth is abused by sub-cummissioners for sequestrations, and a revenue of 13000 l. per annum brought into the state, upon the discovery and charge of John Musgrave.</title>
+                  <author>Musgrave, John, fl. 1654.</author>
+               </titleStmt>
+               <extent>[4], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed Anno Dom. 1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: Price, John.  Musgrave muzl'd: or the mouth of iniquitie stoped. 1651.</note>
+                  <note>Annotation on Thomason copy: "Aprill. 15th'.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Musgrave, John, fl. 1654.</term>
+               <term>Hesilrige, Arthur, --  Sir, d. 1661.</term>
+               <term>Price, John, --  Citizen of London. --  Musgrave muzl'd: or the mouth of iniquitie stoped.</term>
+               <term>England and Wales. --  Parliament. --  Committee for Sequestration of Delinquents' Estates.</term>
+               <term>England and Wales. --  Parliament. --  Committee for Compounding with Delinquents.</term>
+               <term>Musgrave muzl'd: or the mouth of iniquitie stoped.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165839:1" rendition="simple:additions"/>
+            <p>Muſgraves Muſle broken, OR TRUTH pleading againſt FALSHOOD; BEING A juſt Defence and Anſwer to two Papers read by Sir ARTHUR HASLERIG: ſet forth in a Letter written to Mr. <hi>Moyer,</hi> one of the Commiſſioners for Compounding.</p>
+            <p>WHEREIN Is diſcovered how the Common<g ref="char:EOLhyphen"/>wealth is abuſed by Sub-Cummiſſioners for Sequeſtrations, and a Revenue of 13000 <abbr>l.</abbr> 
+               <hi>per Annum</hi> brought into the State, upon the Diſco<g ref="char:EOLhyphen"/>very and Charge of John Muſgrave.</p>
+            <p>Printed, <hi>Anno Dom.</hi> 1651.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:165839:2"/>
+            <pb facs="tcp:165839:2"/>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>IT is not my intent to apologize here, only I preſent to thy view a ſhort Narrative of our Northern bordering State tranſactions, how ſubtilly the adverſary holds up his declining Intereſt, and by Sir <hi>Ar. Haſlerigs</hi> influence upon the Parlia<g ref="char:EOLhyphen"/>ment and Councel of State, hath got into their hands the whole State Revenues there: juſtice is the honour of a Nation, but in<g ref="char:EOLhyphen"/>juſtice the ſhame thereof; a few of our old Kingly Monopoliſts and new State Apoſtates by Sir <hi>Ar. Haſlerig's</hi> meanes, have got all the Authorities into their hands: they now more tyrannize, op<g ref="char:EOLhyphen"/>poſe and ſqueeze the Countrey, cozen the State, and inrich them<g ref="char:EOLhyphen"/>ſelves out of the ruines of poor plundered people, then any ever did, or durſt attempt under a King and Prelates. And for that it is inconſiſtent with a free ingenious ſpirit, to be ſubſervient to the injuſt and injurious actings of our <hi>Northern</hi> Nimrod: none there<g ref="char:EOLhyphen"/>fore there, but ſuch as be either Cavaliers, and ſo under his Rod, if they comply not, or his own vaſſals, mercenary and dependant Creatures muſt be intruſted in any Authority there, as here in part, and more large hereafter, I ſhall fully manifeſt in my anſwer to two nameleſs Pamphlets, called <hi>Muſgrave muſled, &amp;c.</hi> The oc<g ref="char:EOLhyphen"/>caſion of writing this following Letter to Mr. <hi>Moyer</hi> was this. By an Order of the Commiſſioners for compounding the 2. of <hi>Jan.</hi> laſt, I was ſummoned to appear at <hi>Haberdaſhers-Hall</hi> the ſame day, there when I came, Sir <hi>Ar. Haſlerig</hi> cauſed a Letter to be read from <hi>Sewel</hi> and <hi>Laughorn,</hi> two of his Sub-Commiſſioners, and a note of my writing touching the pretended agreement betwixt Mr. <hi>Briſcoe,</hi> Cap. <hi>Crackenthorp</hi> and my ſelf: I then deſired that I might have a formal Charge exhibited againſt me, and offered to anſwer immediately, and deſired to have Copies of the Letter, and a note read againſt me; but both denied, Sir <hi>Ar. Haſlerigs</hi> carrying them away with him: the forgery and falſeneſs of both thou maiſt plainly ſee in this following Letter to Mr. <hi>Moyer,</hi> and as Sir <hi>Arthur</hi> read the one openly, ſo I have cauſed my anſwer to the ſame in this letter, to be publiſhed for the ſatisfaction of friends, and undeceiving of others that take it for granted, Sir <hi>Arthur's</hi>
+               <pb facs="tcp:165839:3"/>onely ſtudy and care is to advance the publick, and the men placed in Authority by him, be honeſt and faithful in their imployment: there is not any thing here aſſerted for truth; but if I may have liberty, I ſhall make good the ſame, and what I have done here, is not out of any diſcontent, emulation, or private grudge to Sir <hi>Ar<g ref="char:EOLhyphen"/>thur Haſlerig,</hi> or any other perſon; but for reſcuing wronged truth, and right information of an abuſed deceived State, by theſe worthleſs and mean men thus promoted and protected by Sir <hi>Ar<g ref="char:EOLhyphen"/>thur Haſlerig,</hi> who by his power and greatneſs keeps them from giving account for their miſcarriage and miſgovernment: The poor <hi>North</hi> groanes for liberty, but hopeleſs to recover their native freedom, whiles Sir <hi>Ar. Haſlerig</hi> is Commander, and Lord pera<g ref="char:EOLhyphen"/>mount over them, only their hope is in God, that he will ſhorten the dayes of his unrighteous raign, and put it into the hearts of the Parliament to call him to account, not only for all the vaſt ſums received out of <hi>Goldſmiths Hall,</hi> Countrey ſequeſtrations, fines, free<g ref="char:EOLhyphen"/>quarter, and other unwrrantable Levies and Seſments; but like<g ref="char:EOLhyphen"/>wiſe for his deſpiſing Parliament Authority, making his will and luſt, not the Acts &amp; Ordinances of Parliament the rule and ſquare of his actions, which if ever it come to equal examination and try<g ref="char:EOLhyphen"/>al, let me ſuffer death if he prove not more peccant by farre then I have rendered him in my Charge; whereof the Councel of State declared, (notwithſtanding their Order intimates otherwiſe) that they had no cognizance, he being a Parliament-man, and left me to the Parliament, to promote my Charge there; but how to do it, or by whom, I know not: yet nothing doubt but God ere long will bring him to anſwer for all his oppreſſions and wrongs done us: This is the prayer and expectation of him who deſires to live no longer then he ſhall be true to the Intereſt of <hi>Englands</hi> Common-wealth, and a faithful Servant to his Countrey.</p>
+            <closer>
+               <signed>JOHN MUSGRAVE.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:165839:3"/>
+            <head>A Letter written to Mr. Moyer, one of the Commiſſioners for compounding, wherein is ſet forth the a<g ref="char:EOLhyphen"/>buſes of the Sub-commiſſioners for Sequeſtrations, and how the State Revenue may be advanced without wrong to any honeſt Intereſt.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>His other day a nameleſs Pamphlet came to my hand, called <hi>Muſgrave muſled,</hi> or the mouth of ini<g ref="char:EOLhyphen"/>quity ſtopped, wherein is printed a Letter from <hi>Tho<g ref="char:EOLhyphen"/>mas Sewell,</hi> and <hi>Thomas Laughorn,</hi> two of your Commiſſioners for ſequeſtrations in <hi>Cumberland,</hi> and directed in haſte to <hi>Thomas Craiſter</hi> Major of <hi>Carliſle</hi> at <hi>Newcaſtle,</hi> with a paper ſaid to be of my writing, with a <hi>Certificate</hi> from a <hi>Miniſter</hi> one <hi>Nicholſon,</hi> touching Cap. <hi>Cracken<g ref="char:EOLhyphen"/>throp,</hi> and mine agreement with Lawyer <hi>Briſcoe;</hi> both which Sir <hi>Arthur Haſlerig</hi> read before you at <hi>Haberdaſhers</hi> Hall, but carried the ſame away with him: ſo I could have no Copy of either of them; o<g ref="char:EOLhyphen"/>therwiſe before this, I would have given a ſatisfactory anſwer to both; and herein I doubt not but both clearly to vindicate my own innocency and integrity, and plainly to diſcover what this anonymus and libellor hath writ, is only to caſt a miſt before truth, that the baſeneſs and trea<g ref="char:EOLhyphen"/>cherous dealing of thoſe men, of whom I complain, may eſcape in the fogge the better uneſpyed. And for the honeſty of M. <hi>Briſcoe,</hi> his former actions and time truths beſt diſcoverer will manifeſt: I will not trouble you further then with what was by Sir <hi>Arthur Haſlerig</hi> ſuggeſted and urged againſt me before you; when by your Order I was convented be<g ref="char:EOLhyphen"/>fore you, without any charge againſt me. The other part of that book a<g ref="char:EOLhyphen"/>gainſt me in Sir <hi>Arthur Haſlerigs</hi> vindication, as this Detractor is li<g ref="char:EOLhyphen"/>cenſed thus to libel againſt me, I hope I ſhall not be bound up from an<g ref="char:EOLhyphen"/>ſwering, nor denyed <hi>legem talionis.</hi>
+            </p>
+            <p>
+               <hi>Sir,</hi> After the Commiſſioners for the Militia in <hi>Cumberland</hi> were laid aſide, upon my exceptions delivered to the Councel of State: Mr. <hi>Canne</hi> came to me, telling me Sir <hi>Arthur Haſlerig</hi> deſired to ſpeak with me: I went to Sir <hi>Arthur Haſlerigs</hi> Lodging: he ſeemed to be deſirous of a right underſtanding betwixt him and the honest party with us: and after ſome flouriſhing with King <hi>James</hi> his ſword, which he ſaid he much valued, he told us how he was deceived in the men na<g ref="char:EOLhyphen"/>med for our Militia; but after he would not recommend any other,
+<pb n="2" facs="tcp:165839:4"/>
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> honeſt men with us ſhould fieſt approve. He ſaid, he had named me a Commiſſioner for ſequeſtraions in <hi>Cumberland:</hi> I wiſhed him to for<g ref="char:EOLhyphen"/>bear doing it, I could not attend that imployment by reaſon of my other private buſineſs and troubles I was incombred with; but if I were a Commiſſioner, I ſhould not forbear his friends, Mr. <hi>Howard</hi> and Sir <hi>Wilfride Lawſon,</hi> two great and dangerous Delinquents. But when I underſtood I was joyned with ſuch as were Delinquents themſelves, and with whom I could not take the Oath preſcribed without perjury: I intended not to have acted with them. No ſeoner I returned into the Countrey, but <hi>Graiſter</hi> and <hi>Laughorn</hi> writ to me to meet them at <hi>Carliſle</hi> for letting out Delinquents Eſtates for that year; but fearing if I ſhould have refuſed, they ſhould have laid the blame upon me, if they had let them to the old ſequeſtrators, <hi>&amp; Sewel,</hi> who were formerly Far<g ref="char:EOLhyphen"/>mers, at farre undervalues; and underſtanding that the Governour of <hi>Carliſle,</hi> and <hi>Craiſter</hi> were then Farmers of ſundry great Delinquents Eſtates at lowe and inconſider able Rents, and how the Governour of <hi>Carliſle</hi> had made great waſte, and cut down a wood of Sir <hi>Thomas D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cres,</hi> as is ſaid, worth <hi>5</hi> or <hi>600 <abbr>l.</abbr>
+               </hi> and whoſe eſtate the Governour then farmed, conceiving few or no Countreymen would or druſt bid mo<g ref="char:EOLhyphen"/>ney for that, the Governour <hi>Craiſtor</hi> or <hi>Sewell</hi> ſhould deſire to have, if we ſhould meet there; upon that accompt I refuſed to go thither, and writ to them, that in regard the Governour <hi>Craiſter</hi> and <hi>Sewell,</hi> who then overawed the Countrey, and exerciſed tyranny, and an arbitrary Government over the people, by laying the Souldiers upon free quarter, raiſing monies, and cauſing Countreymen to bring in their Corn into that Garriſon, without money for the ſame or for carriage, were Farmers of Delinquents Eſtates at farre undervalues: few I knew within their own juriſdiction, and that Gariſon druſt conteſt with them: therefore I held that place not fitting to draw the Countrey thither, deſiring they would appoint a more convenient place, and I would obſerve the time and place; at the firſt they ſaid, I ſhould come thither, or no place; but upon aſecond letter, Iſent them that I would certifie againſt them: they appointed ſome two dayes after, to meet at <hi>Heſcot</hi> by eleven of the Clock; but came not till <hi>3</hi> in the afternoon, no intimation thereof be<g ref="char:EOLhyphen"/>ing given to the Countrey: when they came to <hi>Heſcot,</hi> being but <hi>6.</hi> miles from <hi>Carliſle,</hi> they excuſed their long ſtay, in regard of the funeral Sermon made by one <hi>Balwyne</hi> for <hi>Sewells</hi> wife, who dyed ſome three weeks before; but <hi>Balwyne</hi> was fetched from <hi>Penreth,</hi> and the more
+<pb n="3" facs="tcp:165839:4"/>intelligent conceived their meeting was rather to couſult how to uphold the <hi>Scottiſh</hi> intereſt then for the Sermon by <hi>Balwyne,</hi> who was and yet is a profeſſed enemy to the Ingagement and preſent Government. <g ref="char:V">Ʋ</g>p<g ref="char:EOLhyphen"/>on our ſitting down, none of our Countrey appearing, <hi>Crayſtor</hi> and <hi>Laughorn</hi> deſired I would conſent to let the Delinquents Eſtates to the old Sequeſtrators and Farmers at the former Rents, which I deſented from, in regard I knew the old Sequeſtrators did only take the ſame for the Delinquents uſe and benefit, for whom they were Agents. <g ref="char:V">Ʋ</g>pon this our meeting was adjourned to <hi>Penreth</hi> for ſome <hi>3.</hi> dayes longer, onely upon <hi>Craiſter</hi> and <hi>Laughorns</hi> intreaty and proteſtation, they knew the ſame to be worth no more. I conſented to a Leaſe of Sir <hi>Francis How<g ref="char:EOLhyphen"/>ards</hi> Tithes for that year to Captain <hi>Briſcoe</hi> for <hi>30 <abbr>l.</abbr>
+               </hi> but at our next meeting I found the State cheated of <hi>30 <abbr>l.</abbr>
+               </hi> therein for Mr. <hi>Pearſon.</hi> The Sequeſtrator did offer <hi>60 <abbr>l.</abbr>
+               </hi> for the ſame, and ſaid they were better worth. In the mean time, I ſent into <hi>Weſtmerland</hi> for ſome friends to come to our meeting at <hi>Penreth,</hi> (at any other meeting I was never with them after) fearing few or no Countreymen with us would appear in op<g ref="char:EOLhyphen"/>poſition to the <hi>Governour, Crayſter,</hi> and the old Sequeſtrators; and by my friends at that meeting I advanced the ſequeſtred Rents near <hi>500 <abbr>l:</abbr>
+               </hi> the worſt ſervice I ever did you, and all the favour I ſhewed any Delin<g ref="char:EOLhyphen"/>quents. There were but two for whom I was ſolicited to ſhew ſome fa<g ref="char:EOLhyphen"/>vour to, viz. my <g ref="char:V">Ʋ</g>nckle Sir <hi>William Muſgrave,</hi> and Mr. <hi>Pearſon</hi> of <hi>Newton;</hi> for <hi>Sir William Muſgrave</hi> I raiſed the Rents of his Lands ſo high, for which I was after threatned, if ever the times changed, to have the like returned. For <hi>Pearſon,</hi> 'tis true, a bribe of <hi>10 <abbr>l.</abbr>
+               </hi> was of<g ref="char:EOLhyphen"/>fered me for my good will, the other Commiſſioners being made ſure for him. The caſe was thus, Mr. <hi>Pearſon</hi> the year before had taken of the old Committee <hi>Newton</hi>-Tithes for <hi>76 <abbr>l.</abbr> Sewell</hi> by the countenance of <hi>Craiſter,</hi> pretends (and but a pretence) to have taken them for <hi>50 <abbr>l.</abbr>
+               </hi> requires bond of <hi>Pearſon</hi> for the whole <hi>76 <abbr>l.</abbr>
+               </hi> to his own uſe: <hi>Pearſon</hi> re<g ref="char:EOLhyphen"/>fuſes: then <hi>Sewell</hi> procures Lieut. Col. <hi>Briggs,</hi> being Deputy Gover<g ref="char:EOLhyphen"/>nour of <hi>Carliſle,</hi> to ſend a party of Horſe to force <hi>Pearſon,</hi> and did force him to enter bond to <hi>Sewell</hi> for the whole: <hi>Pearſon</hi> complains to me how he was oppreſt by <hi>Sewel</hi> and <hi>Briggs,</hi> and how <hi>Sewel</hi> intended to cheat the State of <hi>26 <abbr>l.</abbr>
+               </hi> and put it in his own pocket; but <hi>Pearſon</hi> after is ſent for to appear before the Governour of <hi>Carliſle,</hi> who with <hi>Craiſter</hi> partly by threats, and partly through promiſes, <hi>Pearſon</hi> ſhould have the Tithes the next year for <hi>50 <abbr>l.</abbr> Pearſon</hi> payes the whole <hi>76 <abbr>l.</abbr>
+               </hi> to <hi>Sewel.</hi>
+               <pb n="4" facs="tcp:165839:5"/>but only <hi>50 <abbr>l.</abbr>
+               </hi> accompted to the State; if ſo much, to colour and cover this knavery and cheat, the Tithe is agreed on to be let for <hi>50 <abbr>l.</abbr> Muſ<g ref="char:EOLhyphen"/>grave</hi> is the only rub. The commiſſioners offered them for <hi>50 <abbr>l.</abbr>
+               </hi> I having knowledge of their jugling, cauſed one beyond their expectation to bid freely for the Tithes, and raiſed them to <hi>79 <abbr>l.</abbr> 19 <abbr>s.</abbr>
+               </hi> which <hi>Pearſon</hi> ſee<g ref="char:EOLhyphen"/>ing and not willing to part with the Tithes, gave the other <hi>12 <abbr>d.</abbr>
+               </hi> for increaſe: ſo the Rent was that year <hi>80 <abbr>l.</abbr>
+               </hi> If <hi>Anonymus</hi> in that darke could have ſtruck me with any ſuch Arrowe, he would not have miſſed this mark; but I look upon this Pamphleter, hired with a price by Sir <hi>Arthur Haſlerig</hi> to murther my reputation, (which to an honeſt man, is more dear then his life) leaſt I ſhould enter the liſt once again with him, and by help of unconquered truth, unvale his hypocriſie, and lay o<g ref="char:EOLhyphen"/>pen his unfaithfulneſs to the State and preſent Government, with his tyranies <hi>&amp;</hi> oppreſſions yet not diſcovered, which in the ſtrength of God, I fear not but to do. But in anſwer, for <hi>Huddleſtons</hi> pretended Eſtate, I am ſure the Commiſſioners cannot but acknowledge not any was more forward to promote their Rent then I. But upon Mr. <hi>Skeltons</hi> ſhewing the <hi>Exchequer</hi> Leaſe in right of his Sonne, 'tis true, we ſaid we could not diſcharge the Lands from under ſequeſtration; but the ſame were to be freed, either in the <hi>Exchequer,</hi> or by the Commiſſioners for com<g ref="char:EOLhyphen"/>pounding above; and <hi>Skelton</hi> ſhewing an Order of the Exchequer, made upon Mr. <hi>Fells</hi> motion, a Member of Parliament, in <hi>Skeltons</hi> right for freeing thoſe Lands of <hi>Huddleſtons</hi> recuſancy, and acquit<g ref="char:EOLhyphen"/>tances from the ſeveral Sheriffs for the Rent paid by <hi>Skelton</hi> to the ve<g ref="char:EOLhyphen"/>ry time of ſequeſtration, I did not them nor yet ſee how in ſoliciting for the infant here, I did or could wrong the State, and what I did therein was with the privity and approbation of the other Commiſſioners. For re<g ref="char:EOLhyphen"/>ceiving <hi>15 <abbr>l.</abbr>
+               </hi> of <hi>Huddleſton,</hi> I deny it; but upon account it will ap<g ref="char:EOLhyphen"/>pear I have ſpent <hi>10 <abbr>l.</abbr>
+               </hi> more then I have received, having attended here and in the Countrey, ever ſince <hi>June</hi> laſt, and never could bring the ſame to any iſſue, <hi>Skelcon</hi> and his Farmers goods being lately dri<g ref="char:EOLhyphen"/>ven for the Arrearages of the Rent due upon <hi>Skeltons</hi> Leaſe, by the Sheriff of <hi>Cumberland,</hi> whereby appeareth the falſhood of that Certifi<g ref="char:EOLhyphen"/>cate in relation to me and <hi>Skelton:</hi> but I would gladly you would exa<g ref="char:EOLhyphen"/>mine how it comes to paſſe, that after a years diſcovery <hi>&amp;</hi> proof tender<g ref="char:EOLhyphen"/>ed agaiſt <hi>Thompſon</hi> of <hi>Broomfield,</hi> by one <hi>Raper</hi> of the ſame, the State is couzened of <hi>400 <abbr>l.</abbr>
+               </hi> per Annum; for <hi>Thompſon</hi> injoyes his Eſtate, being worth <hi>400 <abbr>l.</abbr>
+               </hi> per Annum, ſtill unſequeſtred, though a notorious
+<pb n="5" facs="tcp:165839:5"/>Delinquent. For my ſpeaking for Delinquents. I dare them to name one. What diſcoveries they have made ſince they were firſt Commiſſio<g ref="char:EOLhyphen"/>ners, let them tell. By their refuſing and ſleighting diſcoveries, I know they have loſt the State <hi>10000 <abbr>l.</abbr>
+               </hi> But why have they been thus long ſilent againſt me? Have I not before provoked them? Did I not tell them at our firſt meeting, that I could not take the Oath with them with<g ref="char:EOLhyphen"/>out perjury, in regard <hi>Laughorn</hi> was a Delinquent in Arms, and had taken the Oath for the Earl of <hi>Newcaſtle,</hi> and that <hi>Craiſter</hi> had re<g ref="char:EOLhyphen"/>ceived <hi>8</hi> or <hi>10000 <abbr>l.</abbr>
+               </hi> of Delinquents money unacconnted for, and ſo thereby vncapable to be Treaſurer as they had made him, and de<g ref="char:EOLhyphen"/>ſired that Mr. <hi>Briſcoe</hi> might ſupply that place? But they are very careful to advance the States Revenues, witneſs their refuſal to exa<g ref="char:EOLhyphen"/>mine witneſſes upon Oath againſt Mr. <hi>Howard,</hi> whoſe delinquency and perjury is manifeſt, and atteſted by ſundry witneſſes under their hands, beſides his withdrawing in Arms to the enemy in <hi>Yorkſhire, 5.</hi> or <hi>6000 <abbr>l.</abbr>
+               </hi> per Annum with them is not conſiderable, Mr. <hi>Howards</hi> E<g ref="char:EOLhyphen"/>ſtate amounts to no leſſe. And ſo much diſpleaſed was I at my being put out of Commiſsion, as you know the laſt Summer I ſolicited you ſo to do often times, telling you I could not act with them to do you ſervice, and if I might have the ſame in the Countrey by indifferent Commiſſi<g ref="char:EOLhyphen"/>oners examined, and not hurried to <hi>Newcaſtle</hi> where none of my wit<g ref="char:EOLhyphen"/>neſſes dare appear againſt them, for Sir <hi>Arthurs</hi> pride and tyranny. I could, and would prove that they have hindered and loſt the State <hi>10000 <abbr>l.</abbr>
+               </hi> by hindering and obſtructing diſcoveries which your friends would have made and offered to do; ſo they ſure are not only in a clande<g ref="char:EOLhyphen"/>ſtine way, but are profeſſed enemies to the intereſt of this Common-wealth. As for the ſtewardſhip of <hi>Penreth</hi> which they ſay I am outed of, I never eſteemed it nor made ought of it, further then to advance the States ſervice, and keep under Delinquents, cauſing ſuch to find pledges without any Fee for their good behavior as refuſed the En<g ref="char:EOLhyphen"/>gagement, whereat ſome of the now Commiſſioners were not well pleaſ<g ref="char:EOLhyphen"/>ed: I never received peny by it, only <hi>29 <abbr>s.</abbr>
+               </hi> the firſt Court, the Fee due for my ſervice is yet to take up, and which I never expect: undeſired, unexpected that place was put upon me by Sir <hi>Henry Mildmay.</hi> I can make it appear, I have ſpent in that ſervice near <hi>20 <abbr>l.</abbr>
+               </hi> the greateſt profit I have had by it. If I would have continued that place after that Honour was ſold, I might, which was offered me by Captain <hi>Dawſon,</hi> one of the purchaſers; but conceiving it a ſnare, or to prevent me from proſe<g ref="char:EOLhyphen"/>cuting
+<pb n="6" facs="tcp:165839:6"/>his Father in Law <hi>Cholmleys</hi> Delinquency I wholly refuſed it. For <hi>Sewel</hi> (who thus upbraids me with my poverty) in the beginning of this Parliament and warre, was not worth a groat, Servant to the Poſt<g ref="char:EOLhyphen"/>maſter of <hi>Carliſle,</hi> ready to rub a Cavaliers Horſe-heeles for a peny; but by cheating the State, and farming Delinquents Lands at farre under<g ref="char:EOLhyphen"/>values, and trading with the enemy in <hi>Scotland,</hi> of late hath got great wealth. And for <hi>Craiſter,</hi> he hath improved his time while he hath ſerved the State, to his own, but not to the States benefit, induſtriouſly ever promoting the <hi>Scots</hi> intereſt. It was not indiſpoſition of health, but out of diſaffection to the preſent ſervice, which made him lay down his Commiſſion when he was to march for <hi>Scotland,</hi> perſwading others from bearing Arms under the now Lord General againſt the <hi>Scots.</hi> But you will ſay, while I complain of others, why do I take bribes, or gifts of others to conceal or free them from delinquency? If to accuſe were a conviction, who ſhould be innocent? I never ſaw the face of that man that durſt exhibit any ſuch Charge againſt me before any Court of Juſtice, otherwiſe then as the ſlanderous pen of this invective libel<g ref="char:EOLhyphen"/>ler hath belcht out againſt me; which I diſregard, holding it my honour, to be evil ſpoken of by baſe men, and ſuch as are aſhamed to own them<g ref="char:EOLhyphen"/>ſelves and what they write; like a murtherer in the dark, killing the inno<g ref="char:EOLhyphen"/>cent unawares. Only as to that paper produced by Sir <hi>Arthur Haſlerig,</hi> touching Mr. <hi>Briſcoe,</hi> which I owned before you to be my writing; bleſſed be God, I was never yet reduced to that ſtrait, as to deny any thing I ever yet writ, or not able to give an account for my ſo doing. And more in particular touching this paper.</p>
+            <p>Sir, After the King withdrawing to <hi>York</hi> from the Parliament, ſoone in every County in the North with us did they liſt men, and raiſe Horſe for the King, and in no place with more readineſs then in <hi>Cumberland.</hi> If any there were known or ſuſpected to favour the Parliament, his words or Religion, was quarrel enough to throwe him into priſon.</p>
+            <p>The firſt impriſoned there was my ſelf, for non-conforming to the Common prayer-Book the Idol of that time; but after bailed. The next Seſſions appearing again, Cap. <hi>Crackenthorp</hi> being there, the Juſtices ſaid we were againſt their King, and that we boaſted of the Parlia<g ref="char:EOLhyphen"/>ment, and thereupon miniſtred the Oath of ſupremacy to us, which we refuſing committed us both cloſe priſoners; but after again bailed. Col. <hi>Rigby</hi> our good friend adviſed us to appear, and (that if we were
+<pb n="7" facs="tcp:165839:6"/>again committed) by <hi>Habeas Corpus</hi> to remove our ſelves: for by Law they could not adminiſter that Oath without ſpecial Commiſſion. I acquainted Mr. <hi>Briſcoe</hi> therewith, being that Seſſions to be ſworn Juſtice, deſiring him not to intermeddle; but he in open Court told the Juſtices they had power to miniſter that Oath, and committed us for high Treaſon for refuſing that Oath the ſecond time, and procured a ſpecial Commiſſion for a Goale-delivery, intending and ſo giving out that we ſhould die as Traytors; but by the <hi>Habeas Corpus</hi> they were diſabled to proceed againſt us, though they would not obey it as to in<g ref="char:EOLhyphen"/>large us</p>
+            <p>To tell you all the cruelty and bad uſage towards us, upbraiding us ever with the Parliament, would be a volum.</p>
+            <p>After many turnings, and the Countrey freed from under the ene<g ref="char:EOLhyphen"/>mies power; we made our addreſſes to the Parliament: and the Lords upon reading our Petition, ſent it down to the Houſe of Commons, who referred it to the Committee of Complaints, with power to ſend for par<g ref="char:EOLhyphen"/>ties, Witneſſes and Records. <g ref="char:V">Ʋ</g>pon ſerving the Order upon Mr. <hi>Briſ<g ref="char:EOLhyphen"/>coe</hi> and other the Juſtices, Sir <hi>William Ermyne,</hi> (ever accompted a friend to Cavaliers with us, by whoſe Votes his Sonne ſits in Parlia<g ref="char:EOLhyphen"/>ment, as Knight of the ſhire for <hi>Cumberland</hi>) procures an Order of the Houſe of Commons, for reſpiting the Summons we had procured upon our great charge and attendance, having ſpent in the proſecution of that Petition near <hi>300 <abbr>l.</abbr>
+               </hi> Cap. <hi>Crakenthorp</hi> was hereat much trou<g ref="char:EOLhyphen"/>bled, having ſuffered and ſpent ſo much for the Parliament, to be ſo ſleighted; ſaid he would make Mr. <hi>Briſcoe</hi> know other way what wrong he had done us, Col. <hi>Cholmley</hi> (being then a Member of Par<g ref="char:EOLhyphen"/>liament, but ſince left the Houſe for his Delinquency) made his addreſs to us, and much ſolicited us to agree with <hi>Briſcoe,</hi> telling us how if we were friends, he would (by his friends here) be much uſeful to the Par<g ref="char:EOLhyphen"/>liaments friends in <hi>Cumberland;</hi> and with much confidence did aver that it was impoſſible any Charge of Delinquency againſt Mr. <hi>Briſcoe</hi> could be proved.</p>
+            <p>At Colonel <hi>Cholmleys</hi> and Captain <hi>Dawſons</hi> earneſt intreaty (as Mr. <hi>Briſcoe</hi> the Merchant I know will acknowledge, if not, I am a<g ref="char:EOLhyphen"/>ble to prove the truth of it otherwiſe) more in regard that Mr. <hi>Briſcoe</hi> would be a friend to honeſt men, then for ſuch an inconſiderable ſumme: as to our loſſes by that impriſonment, we were content to take <hi>35 <abbr>l.</abbr>
+               </hi> of Mr. <hi>Briſcoe,</hi> for the wrong done to us by him, with this proviſoe, that
+<pb n="8" facs="tcp:165839:7"/>our diſcharge or releaſe to him, ſhould never be produced in evidence for to debar us from recovering damages for our falſe impriſonment of the other malignant Juſtices; but we could not agree of the manner of the diſcharge: whereupon Mr. <hi>Briſcoe</hi> the Merchant ſaid, Conzen <hi>Muſgrave,</hi> write as I ſhall dictate to you, and when it is done, if you and the Captain like it not, there ſhall no uſe be made of it; and thereupon I did write the note or paper aske gave it in, of which this nameleſs Libeller ſo much boaſteth. But did we upon reading it agree or ſubſcribe to it? nay, did I not often ſay to him while I was writing it, what he did dictate to me was untruth, we had no charge of Delin<g ref="char:EOLhyphen"/>quency againſt his Brother, and we would not ſubſcribe that paper: aske him if he did not ſolicit us to ſubſcribe it, and upon what account he car<g ref="char:EOLhyphen"/>ried it away with him: did he not premiſe to go that night to the Councel at <hi>Lincolns Inne</hi> with it, and if Councel held it not good, he would not re<g ref="char:EOLhyphen"/>quire it, but would come to us the next day with it? <hi>&amp;</hi> did we not tell him what was written was untruth, and we could not ever own it? and be<g ref="char:EOLhyphen"/>fore he was ſuffered to carry it away, did he not promiſe (if Councel held it not warrantable) to return it us again the next morning? for any ſuch agreement or Ingagement under our hands as the Cavalier Prieſt falſly in his Certificate intimated, the paper produced (which you have ſeen) will teſtifie the contrary: where is now my covetouſneſs, diſhoneſty, knavery, or unwarrantable action in all this? let the Ly<g ref="char:EOLhyphen"/>beller tell me; for his money we never expected, nor deſired it before the difference was ſetled by learned Councel; but the next day we heard not from him, for by this trick it ſeemes a deſign was laid to blaſt our reputation: but bleſſed be God, we are not afraid of ſuch <hi>Bug-bears,</hi> but warned to beware of men, and be more cautious and careful of our wayes and walking. We were men of private conditions; but Mr. <hi>Briſ<g ref="char:EOLhyphen"/>coe</hi> the Lawyer, a Juſtice of peace and Committee-man. If you aske, I will tell you how he had or was to have of <hi>S. Wilf. Lawſon</hi> by the medi<g ref="char:EOLhyphen"/>ation of <hi>2.</hi> grand Delinquents, <hi>30 <abbr>l.</abbr>
+               </hi> for impriſoning him, by vertue of the Commiſſion of Array, how it did agree with his Oath to conceale S. <hi>Wil<g ref="char:EOLhyphen"/>frids</hi> Delinquency, and not ſequeſter him, and yet have reparations for himſelf, I know not; but ſurely, if this nameleſs <hi>Balaamite</hi> and hire<g ref="char:EOLhyphen"/>ling for Sir <hi>Arthur Haſlerig</hi> had any ſuch thing againſt me, he would not be ſilent I confeſs. As for Delinquency againſt Mr. <hi>Briſcoe,</hi> I could not to this day ever find ſufficient matter to fixed charge upon him, though I believe the Commonwealth hath many better friends, and to
+<pb n="9" facs="tcp:165839:7"/>honeſt men be ever profeſſed himſelf an enemy: the Character of the Gentleman, Baron <hi>Thorp</hi> can better give then I; yet that he hath acted with and for the enemy, againſt the Parliament, I believe; for I have a warrant under his hand to that purpoſe; but how to prove it legally I know not, though his Brother doth believe the ſubſcription to be his hand writing, unleſs you will put him to the Oath <hi>ex officio,</hi> which is againſt the Law of God and Man, as you did my couzen <hi>Wharton,</hi> in my caſe without any charge exhibited againſt me; but if you had examined Cap. <hi>Swaine</hi> upon that Oath, who the other day pre<g ref="char:EOLhyphen"/>tended ſuch zeal for the <hi>Common-wealth</hi> before you, againſt Mr. <hi>Primate,</hi> he could have teld you what money, and by whom was offered me in <hi>Michaelmas</hi> Terme laſt, whether <hi>60</hi>
+               <abbr>l.</abbr> more or leſſe, to forbear from proſecuting Sir <hi>Richard Grahams</hi> concealments and underva<g ref="char:EOLhyphen"/>lues upon Cap. <hi>Crackenthorps</hi> Diſcovery, and what Arguments were uſed to induce me thereunto; how Sir <hi>Richard Graham</hi> would find better friends then I before you, and why I ſhould do it for a State that never did me good, right, not juſtice: notwithſtanding all my ſufferings and high actings for them, it ſtood neither with wiſdom nor reaſon, when by giving it ever, I might not only gain a potent friend; but have in hand a conſiderable ſumme to my own deſire: Cap. <hi>Swain,</hi> if examined upon the Oath <hi>ex officio,</hi> could tell you what monies this laſt terme were offered me in the ſame caſe, and what Anſwer I returned.</p>
+            <p>But in caſe Sir <hi>Richard Graham</hi> had given us ſatisfaction for the wrong done us before the diſcovery by us made; I quere, whether it had not been our liberty if we had liked, and the other deſired, if another had made the Diſcovery, to have ſolicited for Sir <hi>Richard Graham,</hi> without wronging the <hi>State,</hi> as well as Mr. <hi>Squibs</hi> Brother, who by ſo<g ref="char:EOLhyphen"/>liciting for Delinquents before you is ſaid to get <hi>500 <abbr>l.</abbr> per Annum.</hi> and yet no bribery in him, I know you accompt it, neither do I? I fur<g ref="char:EOLhyphen"/>ther quere, whether i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> no information or Diſcovery had been made by us, it had not been our liberty to have agreed with him for our perſonal wrongs, and forborn if we had pleaſed to have made the Diſcovery?</p>
+            <p>If you had put Mr <hi>Craiſter</hi> to the Oath <hi>ex officio,</hi> he could have told you how he and <hi>Langhorn</hi> the laſt Summer refuſed to receive Diſcoveries againſt Delinquents, in contempt of your Orders, and great prejudice to the State.</p>
+            <p>I you had put him and <hi>Langhorn</hi> to that Oath, they could have told you, how they ſolicited me (upon my bringing in (before them) my Diſco<g ref="char:EOLhyphen"/>veries
+<pb n="10" facs="tcp:165839:8"/>of the <hi>17.</hi> of <hi>October</hi> laſt) to have forborn to do it, ſaying, I ſhould do my Countrey bad ſervice in it; for by that meanes the Diſ<g ref="char:EOLhyphen"/>coveries would come to the State, and they had an intent to get all the Concealments and Diſcoveries to themſelves, as Sir <hi>Arthur Haſlerig</hi> hath ſince done for them from the firſt of <hi>November</hi> laſt. Now my Diſ<g ref="char:EOLhyphen"/>coveries are the only let in their way, being before that time, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce <hi>Crai<g ref="char:EOLhyphen"/>ſter</hi> gave out in ſpeeches (before he went out of Town, as my Couzen <hi>Wharton</hi> can witneſs) that neither the State nor I ſhould have any benefit by thoſe Diſcoveries, which I made the <hi>17.</hi> of <hi>October</hi> laſt.</p>
+            <p>If you had put Mr. <hi>Craiſter</hi> and Mr. <hi>Sewell</hi> to the Oath <hi>ex offi<g ref="char:EOLhyphen"/>cio,</hi> they could have told you how they ſolicited me to withdraw my Charge of Delinquency againſt Col. <hi>Cholmley</hi> and <hi>Thomas Lang<g ref="char:EOLhyphen"/>horn,</hi> ſaying, I ſhould undo them if I did the ſame, and they could tell you how they laboured with Cap. <hi>Crackenthorp</hi> to diſwade me therefrom.</p>
+            <p>If <hi>John Muſgrave</hi> had done any ſuch thing; how would this <hi>Tertul<g ref="char:EOLhyphen"/>lus,</hi> hired to raile againſt me, have opened his throat to declame againſt me? what black epithites would he have given me, you may eaſily ima<g ref="char:EOLhyphen"/>gine? But thoſe be Sir <hi>Arthur Haſlerig's</hi> honeſt men; and no place, but at <hi>Newcaſtle,</hi> you think fit to examine their miſdemeanors. I had almoſt forgot to acquaint you, how upon my coming laſt to <hi>London, Craiſter, Sewell,</hi> and <hi>Langhorn,</hi> the day before I came out of the Countrey) did earneſtly intreat me that I would be their <hi>Solicitor</hi> at <hi>London;</hi> for they knew, <hi>I</hi> would be both honeſt and diligent in what I undertook; and without ſome active man above, you would do nothing: ſo careleſs were you of what they certified as you made not any return thereupon. Then they could fawn, flatter and diſſemble with me; profeſſing, they knew I was glad to be out of Commiſſion with them, and how prejudicial the ſame was to my other buſineſs; hoping thereby to have drawn me from proſecuting my Diſcoveries and complaining of them: but now failing in their expectation, they throwe their dirt and filth in my face, to make me ugly, and the Readers believe, that it is my natural complexion, and a leproſie growing from an inbred corruption. But their and the Gover<g ref="char:EOLhyphen"/>nor of <hi>Carliſle's</hi> Certificate of <hi>Craiſter's</hi> Judgement for a Congregati<g ref="char:EOLhyphen"/>onal way are a like truth; <hi>Craiſter</hi> being the <hi>Scottiſh Presbyters</hi> great Champion there, and a profeſſed enemy to aſk ſuch in that Countrey, is favour <hi>Independency,</hi> as I can prove by a Cloud of Witneſses. Nay <hi>Craiſter</hi> hath threatned of late, that ſuch as walk in a Congregational
+<pb n="11" facs="tcp:165839:8"/>way, ſhall be debarred to meet to prayer and worſhip; boaſting to be arm<g ref="char:EOLhyphen"/>ed with authority from Sir <hi>Arthur Haſlerig</hi> to effect it. Satan can tranſform himſelf into an Angel of Light: but the hope of the Hypo<g ref="char:EOLhyphen"/>crite ſhall periſh; and God will unmask in his due time, the unworthy dealing and diſſembling of this jugler. For Mr. <hi>Nicholſon,</hi> if Sir <hi>Ar<g ref="char:EOLhyphen"/>thur</hi> had not read his certificate before you, I ſhould not further have troubled you with him, by what is ſaid; which I am able to prove. You ſee, upon what weak props and rotten pillars Sir <hi>Arthur Haſlerig</hi> would uphold his credit; &amp; by a ſhort &amp; true character of the man, who calls himſelf a Minister of the Goſpell, you may conceive how by ſuch men Sir <hi>Arthur Haſlerig</hi> propagates the Goſpell in the North.</p>
+            <p>
+               <hi>Nicholſon,</hi> while the enemy had any power with us, complied with that intereſt, after the Country was reduced to the obedience of Parlia<g ref="char:EOLhyphen"/>ment, upon the recommendation of ſome, whom the Commiſſioners of the great ſeal beſt know, got the Rectory of <hi>Plumland</hi> under the great ſeal of <hi>England</hi> granted him; of which he makes Merchandize, and ſells the ſame to a Delinquent Prieſt, one <hi>Eglesfield,</hi> for an hundred pounds. After upon Duke <hi>Hambleton's</hi> invading <hi>England,</hi> withdraws himſelf to the enemys garriſon in <hi>Carliſle;</hi> and there he turns to his old vomit, the book of Common-Prayer; and was preacher before Sir <hi>Philip Muſgrave</hi> and Sir <hi>Wil. Leviſton</hi> the Governour of <hi>Carliſle:</hi> of all which <hi>Craiſter</hi> is not ignorant: By his friends, now in authority, he is placed at <hi>Thurſby;</hi> and of late upon the recommendation of <hi>Craiſter,</hi> confirmed in that Rec<g ref="char:EOLhyphen"/>tory, by the Commiſſioners for the Miniſtry of <hi>Newcaſtle.</hi> And <hi>Egles<g ref="char:EOLhyphen"/>field</hi> (though a Cavalier &amp; Delinquent) injoys his place likewiſe but who dares ſay, that <hi>Craiſter</hi> is no honeſt man, or Sir <hi>Arthur</hi> is a friend to Ca<g ref="char:EOLhyphen"/>valiers and Malignants? I have often heard you ſay, you were under an oath. Deceive not your ſelves: God will not be mocked. The Lords and Commons of Parliament (whoſe ſeats you now poſſeſſe) though high in power, and great in wealth, for their double mindedneſſe, diſſembling, ſleighting oaths, regarding perſons, brother, couſin, and friends; and deſ<g ref="char:EOLhyphen"/>piſing men of mean &amp; lew condition, God with contempt hath laid aſide. If you tread in the ſame tract they did, notwithſtanding you ſet a fairer guilt and gloſſe upon your doings, God will find you out; and you ſhall go off with as bad a ſavor as the ſnuff of a Candle when put out. Your wiſe<g ref="char:EOLhyphen"/>domes, and all your windings ſhall not prevent it; and that ſooner then you dream of, if you deſpiſe Councel. Now to carry witneſſes for the Com<g ref="char:EOLhyphen"/>monwealth out of <hi>Carliſle</hi> to <hi>Newcaſtle,</hi> near a <hi>100</hi> miles remote from
+<pb n="12" facs="tcp:165839:9"/>their dwellings for to <hi>Browgham</hi> in <hi>Weſtmerland,</hi> not a mile out of <hi>Cumberland,</hi> the Commiſſioners there being of your own naming, <hi>&amp;</hi> upon Sir <hi>Arth. Haſlerigs</hi> recommendation as the other be, and whom you may arm and alike authorize them to do it; be more equall, juſt, and for the more eaſe and leſſening of the charges of the witneſſes, and for the fur<g ref="char:EOLhyphen"/>ther incouragement of the proſecutor for the Common-wealth, God judge and let all honeſt and unbyaſſed men well conſider. To preſix a pe<g ref="char:EOLhyphen"/>remptory day for a hearing within ſix weeks and before the parties complained of have anſwered the charge, and ſo no iſſue joined, nay be<g ref="char:EOLhyphen"/>fore any formall ſummons granted againſt them for their appearance; and parties and witneſſes living remote hence near <hi>300</hi> miles, while you have made the proſecutor attend two moneths, before be can have an order out, made againſt a Delinquent; and yet he cannot procure it, be regular, juſt, and honeſt: and if ſuch difficulties, or rather impoſſibilities put upon the proſecutor is not partial dealing, or agreeable with your oath let the more judicious conſider. One queſtion more I would offer unto you, whether the high Court of Parliament be not a Court of equity as law? If ſo, then whether the Commiſſioners or Judges ſitting at Haberdaſhers-Hall, from whom there be no appeals to any other Court then the Parlia<g ref="char:EOLhyphen"/>ment it ſelf, in caſes depending before and determinable by them, be not Judges of the equitable part as the legall? Which if denied; will it not un<g ref="char:EOLhyphen"/>avoidably follow, that former Kings and Tyrants of this Nation, have in their high Court of Chancery made better proviſion for their vaſſals and ſlaves, to recover and regain their lost rights and poſ<g ref="char:EOLhyphen"/>ſeſſions, when without remedy in Common Law-Courts, their evi<g ref="char:EOLhyphen"/>dences being lost then Englands Parliament hath done for their plun<g ref="char:EOLhyphen"/>dered friends, and the widdows of the ſlain in their quarrels? Will not Englands freedome be now worſe and more deſtructive to us, then former Englands ſlavery under Kings and Lordly power? Admit (as too true it is in many mens caſes) the enemy for my affection and adhering to the Parliament hath not onely impriſoned me; but diſpoſ<g ref="char:EOLhyphen"/>ſeſt me of lands, plundered me, taken from me all my writings and evidences upon reducing the Country my land and eſtate is ſequeſt<g ref="char:EOLhyphen"/>red for the Delinquency of the intruder or diſſeiſor, the laſt Tenant in poſſoſſions the diſſeaſor confeſſeth to have my evidences, I deſire he may produce them; a zealot ſtands up, and tels you, the State makes title un<g ref="char:EOLhyphen"/>der the diſſeiſor: I am to ſhew the writings, if I expect the land we may not, we will not, ſaith he, nay we forbid the diſſeiſor to ſpeak the truth;
+<pb n="13" facs="tcp:165839:9"/>or ſhew any writings for him: Is this right? is this Law? is this Parliamentary? Now admit all my evidences and writings had been burnt by the enemy, or by caſualty loſt, how ſhall I regain my poſſeſſi<g ref="char:EOLhyphen"/>on? ſhall not Records, proofes and proceedings of other Courts, diſco<g ref="char:EOLhyphen"/>vering my right be read and allowed? were it not the height of tyran<g ref="char:EOLhyphen"/>ny and injuſtice to deny it? Whoſoever would perſwade you to act thus wickedly, as Sir <hi>Ar. Haſlerig</hi> did in Mr. <hi>Primates</hi> caſe; ſuſpect him for an enemy: and whatever his pretence be, his intent and aime is to bring us into an odium and diſlike of the preſent Government; and cauſe the people to cry out for another King, as through the miſgovern<g ref="char:EOLhyphen"/>ment of <hi>Samuels</hi> Sonnes <hi>Iſrael</hi> did do, draw the curſes of the oppreſ<g ref="char:EOLhyphen"/>ſed upon you, and bring the wrath of God upon your Maſters. Be wiſe, ſeek not deep to hide your Councels: remember there is a woe written to them that decree unrighteous decrees, and that write grievouſ<g ref="char:EOLhyphen"/>neſs which they have preſcribed.</p>
+            <p>
+               <hi>Sewel</hi> and <hi>Langhorn</hi> certifie, that I ſp<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ke ſo much in Delinquents behalf as gave occaſion to my fellow Commiſſioners to have ſome jea<g ref="char:EOLhyphen"/>louſies of my actings. I pray conſider, and let it be examined by indiffe<g ref="char:EOLhyphen"/>rent men; whether my high actings againſt Delinquents was not the very cauſe they deſired me out, wherein though not by them intended, they did me a courteſie? But how farre they promoted the States Reve<g ref="char:EOLhyphen"/>nue, the farming out the Tithes of the Rectory of <hi>Graiſtock</hi> for <hi>71 <abbr>l.</abbr>
+               </hi> when <hi>100 <abbr>l.</abbr>
+               </hi> more was proffered, and which they knew to be worth <hi>300 <abbr>l.</abbr>
+               </hi> with many other ſuch actions of theirs will ſpeak for them. For the favour I ſhewed Delinquents then, or ſince my then advancing the rents of Delinquents Eſtates, and my diſcovery then and ſince will ſufficient<g ref="char:EOLhyphen"/>ly anſwer for me. I did the whole work, they received the whole wa<g ref="char:EOLhyphen"/>ges and allowances. Mr. <hi>Briſcoe</hi> nor I had one peny ſince we were Commiſſioners. Let all the Recoras and Returns of <hi>Haberdaſhers-Hall</hi> be viewed, if by them or their Diſcovery, <hi>100 <abbr>l.</abbr> per Annum</hi> be brought in to the State, either in Concealments or undervalues, more then ſome few particulars of mine, and Mr. <hi>Cruckenthorps</hi> Diſcove<g ref="char:EOLhyphen"/>ries, then I am much miſtaken. In proſecution of which Diſcoveries, before you, I have ſpent <hi>200 <abbr>l.</abbr>
+               </hi> beſides the neglect of my private af<g ref="char:EOLhyphen"/>fairs, and a long and weariſom attendance upon you with ſuch diſcou<g ref="char:EOLhyphen"/>ragement and diſreſpect from Mr. <hi>Winſlow</hi> and Mr. <hi>Barnard,</hi> as if I had been no friend to the Republick in what I did: beſides my Diſcove<g ref="char:EOLhyphen"/>ries made to you in <hi>June</hi> laſt, which I could never get your Commiſſi<g ref="char:EOLhyphen"/>oners
+<pb n="14" facs="tcp:165839:10"/>in <hi>Cumberland</hi> to proceed to the examining of witneſſes, though I had much ſolicited them and which will bring in to the State <hi>10000 <abbr>l.</abbr> per annum.</hi> My poverty they object to me as a crime: to this day I have eaten mine own bread: I am content with my portion, oft have I refuſed, never did I ſeek for place of profit or preferment, I have ſince this Par<g ref="char:EOLhyphen"/>liament begun, often ventured my life for them, ſpent in promoting the States ſervice firſt and laſt, more then <hi>500 <abbr>l.</abbr>
+               </hi> beſides my loſſes and im<g ref="char:EOLhyphen"/>priſonment for the Parliaments cauſe: yet never had I any thing from the Parliament, either towards wages or reparations for my loſſes. But for your boaſting Commiſſioners, whatſoever they have loſt, I am able to prove. They have by their beneficial Offices, received a pound for eve<g ref="char:EOLhyphen"/>ry peny loſt: yet hath S. <hi>Arthur H.</hi> procured the other day all the conceal<g ref="char:EOLhyphen"/>ed Delinquents eſtates and undervalues in <hi>Cumberland,</hi> from the firſt of <hi>November</hi> laſt to be of their diſpoſing: how they will order and be<g ref="char:EOLhyphen"/>ſtowe the ſame, a little time will diſcover. For the Leaſes they have made of Delinquents Eſtates, they might have improved them <hi>1000 <abbr>l.</abbr> per Annum.</hi> And by good ſecurity, I dare undertake to procure you Far<g ref="char:EOLhyphen"/>mers, that will give <hi>500 <abbr>l.</abbr> per Annum,</hi> more then they accompt to you for. But leaſt you ſhould think I only word it, the particulars enſuing of my Diſcoveries made before you the firſt of <hi>November</hi> laſt, and in <hi>Cumberland</hi> follow.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <abbr>
+                           <hi>l</hi>
+                        </abbr>
+                     </cell>
+                     <cell role="label">
+                        <abbr>
+                           <hi>s</hi>
+                        </abbr>
+                     </cell>
+                     <cell role="label">
+                        <abbr>
+                           <hi>d</hi>
+                        </abbr>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>IMprimis, <hi>upon my diſcovery againſt Mr.</hi> Pen<g ref="char:EOLhyphen"/>nington <hi>of</hi> Muncaſter, <hi>his real Eſtate ſecured</hi> per Annum <hi>about</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Mr.</hi> William Pennington <hi>of</hi> Seaton, <hi>upon my Diſ<g ref="char:EOLhyphen"/>covery</hi> per Annum</cell>
+                     <cell>
+                        <hi>400</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Authony Latus <hi>of</hi> Beck, per Annum</cell>
+                     <cell>
+                        <hi>150</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>John Huddleſton <hi>of</hi> 
+                        <g ref="char:V">Ʋ</g>lpha per Annum</cell>
+                     <cell>
+                        <hi>60</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>John Rawbanke — per Annum</cell>
+                     <cell>
+                        <hi>60</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Hugh Askow — per Annum</cell>
+                     <cell>
+                        <hi>100</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="total">Cumberland <hi>Diſcoveries</hi> per Annum</cell>
+                     <cell role="total">
+                        <hi>2270</hi>
+                     </cell>
+                     <cell role="total">
+                        <hi>0</hi>
+                     </cell>
+                     <cell role="total">
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>Cumberland</hi> Concealments and Undervalues upon my Diſcovery ſeiſed and ſecured.</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </cell>
+                     <cell role="label">
+                        <abbr>
+                           <hi>s.</hi>
+                        </abbr>
+                     </cell>
+                     <cell role="label">
+                        <abbr>
+                           <hi>d.</hi>
+                        </abbr>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>IMprimis John Scenhouſe <hi>his undervalue</hi> per Annum.</cell>
+                     <cell>
+                        <hi>14</hi>
+                     </cell>
+                     <cell>
+                        <hi>2</hi>
+                     </cell>
+                     <cell>
+                        <hi>4</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>His Concealments</hi> per Annum,</cell>
+                     <cell>
+                        <hi>123</hi>
+                     </cell>
+                     <cell>
+                        <hi>16</hi>
+                     </cell>
+                     <cell>
+                        <hi>8</hi>
+                     </cell>
+                  </row>
+                  <pb n="15" facs="tcp:165839:10"/>
+                  <row>
+                     <cell>Thomas Patrik ſon <hi>of</hi> Stockholne <hi>his undervalue</hi> per Annum</cell>
+                     <cell>
+                        <hi>26</hi>
+                     </cell>
+                     <cell>
+                        <hi>13</hi>
+                     </cell>
+                     <cell>
+                        <hi>4</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>His Concealments</hi> per Annum</cell>
+                     <cell>
+                        <hi>81</hi>
+                     </cell>
+                     <cell>
+                        <hi>16</hi>
+                     </cell>
+                     <cell>
+                        <hi>8</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Robert Fiſher <hi>of</hi> Brakenthweat <hi>his Undervalue</hi> per Annum,</cell>
+                     <cell>
+                        <hi>34</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>His Concealement</hi> per Annum,</cell>
+                     <cell>
+                        <hi>28</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Concealments upon my diſcovery before the 1. of</hi> November <hi>1050.</hi> per annum,</cell>
+                     <cell>
+                        <hi>308</hi>
+                     </cell>
+                     <cell>
+                        <hi>9</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sir</hi> Henry Bellingham <hi>his Concealement and un<g ref="char:EOLhyphen"/>dervalue</hi> per annum <hi>upon my diſcovery</hi>
+                     </cell>
+                     <cell>
+                        <hi>400</hi>
+                     </cell>
+                     <cell>
+                        <hi>5</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Summatotalis <hi>of Diſcoveries &amp; Concealements upon my Diſcovery ſince the 17. of</hi> Octob. <hi>and before the 1. of</hi> November <hi>1650.</hi>
+                     </cell>
+                     <cell>
+                        <hi>3058</hi>
+                     </cell>
+                     <cell>
+                        <hi>14.</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Baronet</hi> Curwens <hi>Concealment and undervalue by Cap.</hi> Crackenthorps <hi>Diſcovery 17.</hi> Octob. <hi>1651.</hi>
+                     </cell>
+                     <cell>
+                        <hi>271</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>So Cap.</hi> Crackenthorp <hi>added to my Diſcove<g ref="char:EOLhyphen"/>ry before the 1. of</hi> Novemb. <hi>1650. All ſeized and ſecured, amounts</hi> per annum <hi>to</hi>
+                     </cell>
+                     <cell>
+                        <hi>3329</hi>
+                     </cell>
+                     <cell>
+                        <hi>14</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>And upon my Diſcovery 17. of</hi> Octob, <hi>1650. Mr.</hi> Pennington <hi>of</hi> Muncaſter <hi>his perſonal Eſtate ſeized and ſecured,</hi>
+                     </cell>
+                     <cell>
+                        <hi>571</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>My other Diſcoveries of the 19. of</hi> June <hi>1650. and 17. of</hi> Octob. <hi>1650. not yet ſecured, will amount</hi> per annum, <hi>to</hi>
+                     </cell>
+                     <cell>
+                        <hi>10000</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Cap</hi> Crackenthorps <hi>Diſcovery upon Sir</hi> Richard Graham, <hi>concealed and undervalued</hi>
+                     </cell>
+                     <cell>
+                        <hi>600</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Now if you would have examined witneſſes for theſe latter unſecured, the State had been in actual poſſeſſion of the ſame, as well as of the other; but in regard of private friendſhip, they wholly refuſed it, ſo that what is ſecured, and this which is not yet ſecured by the only default of your Commiſſioners doth amount.</hi> per Annum, <hi>to</hi>
+                     </cell>
+                     <cell>
+                        <hi>14490</hi>
+                     </cell>
+                     <cell>
+                        <hi>14</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <hi>If I had done the like ſervice for any Prince in</hi> Europe, <hi>I ſhould not have been thus diſ-regarded: yet notwithſtanding all the diſ<g ref="char:EOLhyphen"/>reſpects I have had, delayes and puttings off: if hereafter I receive encouragement, and miſ-underſtanding be removed, I ſhall be rea<g ref="char:EOLhyphen"/>dy
+<pb n="16" facs="tcp:165839:11"/>to proſecute the Diſcoveries before you. Therefore my hum<g ref="char:EOLhyphen"/>ble requeſt to you is, that according to your former engagement, you wil give order for allowance of the fifths of my Diſcoveries, to<g ref="char:EOLhyphen"/>wards the defraying charges, loſſe of time &amp; neglect of private buſi<g ref="char:EOLhyphen"/>neſs, as of my own, ſo of others, &amp; without which I ſhall be diſabled to finiſh what I have begun, whereby the State will loſe a conſide<g ref="char:EOLhyphen"/>rable Revenue, if well improved.</hi>
+            </p>
+            <p n="1">
+               <hi>1. That the Articles againſt your Commiſſioners in</hi> Cumberland, <hi>may be examined in</hi> Cumberland <hi>or</hi> Weſtmerland, <hi>and not at</hi> New<g ref="char:EOLhyphen"/>caſtle, <hi>upon ſuch great inequality and diſcouragement, both of the proſecutor and witneſſes.</hi>
+            </p>
+            <p n="2">
+               <hi>2. That your Commiſſioners may be required to make returns of ſuch Diſcoveries as they have ſecured, and give accompt why they have not done it before this time.</hi>
+            </p>
+            <p n="3">
+               <hi>3. For that it appeares by affidavit, the miſcarriage of your Com<g ref="char:EOLhyphen"/>miſſioners in not truly ſetting down depoſitions taken againſt De<g ref="char:EOLhyphen"/>linquents, you will appoint an able and honeſt man whom I can approve of, to write the depoſitions, and not leave it to Mr.</hi> Crai<g ref="char:EOLhyphen"/>ſters <hi>man, who either ignorantly or wilfully leaves out the moſt material things tending to prove the delinquency of the party diſ<g ref="char:EOLhyphen"/>covered.</hi>
+            </p>
+            <p>
+               <hi>I know ſundry in</hi> Biſhoprick, Yorkſhire, Cumberland <hi>and</hi> Weſt<g ref="char:EOLhyphen"/>merland, <hi>would before this have made out great and conſiderable diſcoveries, if by your flowe proceedings upon mine and Captain</hi> Crackenthorps <hi>they had not been hindered, who wait to hear how the State will reſent the good ſervice I have done them herein, and how they conſider me for my great travel and expences, I have undergone about the ſame: all which I held it my duty to com<g ref="char:EOLhyphen"/>municate unto you, expecting your anſwer hereunto, hoping you will not ſpend me out with unneceſſary attendance, when one day will do all my buſineſs for the preſent before you.</hi>
+            </p>
+            <closer>
+               <signed>I take my leave and reſt, Yours, <hi>JOHN MUSGRAVE.</hi>
+               </signed>
+               <dateline>
+                  <date>
+                     <hi>26. 3.</hi> moneth, <hi>1651.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <trailer>
+               <hi>For</hi> Sam. Moyer <hi>
+                  <abbr>Eſq</abbr> one of the Commiſſioners for compounding.</hi>
+            </trailer>
+         </div>
+         <div type="postscript">
+            <pb n="17" facs="tcp:165839:11"/>
+            <head>POSTSCRIPT.</head>
+            <p>THis Letter I had publiſhed before now, if my private buſineſs drawing me out of Town had not hindered. Upon my return I find a Letter printed, written by Lieutenant Colonel <hi>John Lilburn</hi> to <hi>John Price,</hi> the ſuppoſed Au<g ref="char:EOLhyphen"/>thour of that nameleſs and ſcurrilous Pamphlet, entituled, <hi>Muſ<g ref="char:EOLhyphen"/>grave muſled, or the mouth of iniquity ſtopped:</hi> In which Letter Mr. <hi>Lilburn</hi> much complaines of Sir <hi>Arthur Haſlerig,</hi> for his cruel and harſh dealings, and cauſeleſs proſecution againſt Mr. <hi>George Lil<g ref="char:EOLhyphen"/>burn</hi> his Unckle, and Mr. <hi>Richard Lilburn</hi> his Father, whom with their whole Family Sir <hi>Arthur Haſlerig</hi> cauſeleſſy endeavours to deſtroy, as Mr. <hi>Lilburn</hi> ſaith in his Letter; a Family I know as well deſerving from this Common-wealth, for their faithfulneſs, active<g ref="char:EOLhyphen"/>neſs, and ſuffering for the good thereof, as any one Family of their condition this day in <hi>England.</hi> I heare Sir <hi>Arthur</hi> doth ſore threaten me: I am not afraid; but before he meddle with me, if he have either Honour or honeſty, he will cleare himſelf of that high Charge fixt upon him by Mr. <hi>Lilburn</hi> in that Letter: otherwiſe who will doubt that Sir <hi>Arthur Haſlerig</hi> relies more upon his power and greatneſs to protect him, then by truth and juſtice to defend the bounty and goodneſs of his cauſe. Mr. <hi>Lilburn</hi> the o<g ref="char:EOLhyphen"/>ther day told me, that Sir <hi>Henry Mildmay</hi> asked him, what he thought of <hi>Muſgraves</hi> Charge againſt Sir <hi>Arthur Haſlerig?</hi> and how he replyed, he knew Sir <hi>Arthur</hi> was guilty of moſt I had charged him with, as to <hi>Biſhoprick</hi> and <hi>Northumberland;</hi> and that
+<pb n="18" facs="tcp:165839:12"/>
+               <hi>Shurir Art Haſlerig</hi> had made one <hi>Dallivall,</hi> a notorious Delin<g ref="char:EOLhyphen"/>quent, High Sheriffe of <hi>Northumberland</hi> the laſt year; and this year one <hi>Shadforth</hi> a great Delinquent and Malignant, High Sheriff of <hi>Biſhoprick</hi> yet neither of them ſequeſtred, though Sir <hi>Arthur Haſlerig</hi> knowes them to be ſuch which makes me to remember what Juſtice <hi>Warburton</hi> ſaid to me at <hi>Durham,</hi> at his going thence the laſt A ſizes the Judge called me to him, and ſaid Mr. <hi>Muſgrave,</hi> the greateſt and richeſt Delinquents in <hi>Newcaſtle</hi> are yet unſeque<g ref="char:EOLhyphen"/>ſtred, take notice of it, and look to it. I told the Judge, I was a ſtranger in thoſe parts, but I would acquaint my Lord Preſident with it, and which I did by the next Poſt: ſo that it may truly be ſaid of Sir <hi>Arthur Haſlerig,</hi> as ſometimes it was of <hi>Romes Senate,</hi> in <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and calling ſtate, <hi>Dat veniam corvis, vexat cenſura columbas.</hi>
+            </p>
+            <closer>
+               <signed>JOHN M<g ref="char:V">Ʋ</g>SGRAVE.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
